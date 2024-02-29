@@ -22,7 +22,7 @@ Membuat database dengan nama “apicrud” yang di dalamnya berisi tabel dengan 
 id (int),
 nama_barang (varchar),
 stok (int),
-harga (double)
+harga (double).
 
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/cc6f79ab-ad1d-4042-85df-dc7352eca113)
@@ -31,6 +31,7 @@ Kode PHP di atas merupakan bagian dari backend untuk operasi CRUD (Create, Read,
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/a77d7ce2-e9cf-428d-ae6b-98e5122fbd56)
 
+Program tersebut merupakan bagian dari backend untuk menangani operasi Create (POST) pada entitas “barang” dalam database “apicrud”.
 
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/f0cb4335-0008-4378-ac33-b94510c793fb)
