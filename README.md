@@ -54,6 +54,8 @@ Maka, di localhost akan tampak input terbaru dari aplikasi postman.
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/d128a59b-e170-4fd0-89fa-1d953f8a8c33)
 
+Jika ingin menghapus data, ganti request post menjadi delete. Klik params. Misal kita akan mendelete id. Klik id dan value 2.
+
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/d209feb8-73c7-4606-b16d-0b3ccf90896d)
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/a0f10b0e-4bfd-4a74-93a5-6a214a9861fa)
