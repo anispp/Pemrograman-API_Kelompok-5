@@ -32,7 +32,6 @@ Kode PHP di atas merupakan bagian dari backend untuk operasi CRUD (Create, Read,
 
 Program tersebut merupakan bagian dari backend untuk menangani operasi Create (POST) pada entitas “barang” dalam database “apicrud”.
 
-
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/f0cb4335-0008-4378-ac33-b94510c793fb)
 
 Program tersebut merupakan bagian dari backend untuk menangani operasi Delete (DELETE) pada entitas “barang” dalam database “apicrud”.
@@ -45,8 +44,9 @@ Potongan kode program di atas merupakan bagian dari backend untuk menangani oper
 
 Cara melihat aplikasi berhasil atau tidak, yakni menggunakan aplikasi ‘postman’. Cara menggunakannya adalah menggunakan parameter GET. Copy link dari local hostnya, lalu di paste ke GET. Sehingga, datanya langsung tertampilkan.
 
-
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/e7d2f9b2-22be-4fb9-9554-352fa7935f95)
+
+Ubah method menjadi post. Lalu klik body. Memasukkan atribut beserta entitasnya. Kami memasukkan nama barang topi, stok 50, dan harga 10000. 
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/c46775e1-5e04-44e6-ba11-3014533a1c0f)
 
