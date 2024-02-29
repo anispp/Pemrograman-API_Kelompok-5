@@ -43,6 +43,9 @@ Potongan kode program di atas merupakan bagian dari backend untuk menangani oper
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/d4398cf3-9c2e-48fc-bc36-85fe79b11dea)
 
+Cara melihat aplikasi berhasil atau tidak, yakni menggunakan aplikasi ‘postman’. Cara menggunakannya adalah menggunakan parameter GET. Copy link dari local hostnya, lalu di paste ke GET. Sehingga, datanya langsung tertampilkan.
+
+
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/e7d2f9b2-22be-4fb9-9554-352fa7935f95)
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/c46775e1-5e04-44e6-ba11-3014533a1c0f)
