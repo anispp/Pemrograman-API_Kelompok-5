@@ -65,3 +65,5 @@ Gambar diatas merupakan hasil dari delete data melalui postman.
 Gambar diatas merupakan contoh dari update data, menggunakan method put. Isi dengan id 1, nama barang buku pelajaran, stok 5, harga 10000. Lalu klik send dan statusnya akan berhasil.
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/59bbe3aa-28b9-43b2-825a-fa1e6f19856b)
+
+Gambar diatas merupakan hasil update data menggunakan postman. Harga buku pelajaran yang semula 12000, berubah menjadi 10000. Dan stok yang semula 10, berubah menjadi 5.
