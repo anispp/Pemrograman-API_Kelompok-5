@@ -18,6 +18,13 @@ UNIVERSITAS NEGERI SURABAYA
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/b5737016-1bfc-43ab-abd6-8e8546e29231)
 
+Membuat database dengan nama “apicrud” yang di dalamnya berisi tabel dengan nama “barang”. Di dalam tabel barang terdapat sejumlah atribut antara lain:
+id (int)
+nama_barang (varchar)
+stok (int)
+harga (double)
+
+
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/cc6f79ab-ad1d-4042-85df-dc7352eca113)
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/a77d7ce2-e9cf-428d-ae6b-98e5122fbd56)
