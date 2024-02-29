@@ -36,6 +36,9 @@ Program tersebut merupakan bagian dari backend untuk menangani operasi Create (P
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/f0cb4335-0008-4378-ac33-b94510c793fb)
 
+Program tersebut merupakan bagian dari backend untuk menangani operasi Delete (DELETE) pada entitas “barang” dalam database “apicrud”.
+
+
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/9f5ecfa5-9717-4d68-95ef-3724ca4a8eb2)
 
 ![image](https://github.com/anispp/Pemrograman-API_Kelompok-5/assets/120777302/d4398cf3-9c2e-48fc-bc36-85fe79b11dea)
